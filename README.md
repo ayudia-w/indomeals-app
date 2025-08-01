@@ -1,4 +1,4 @@
-# Indomeals - Affordable & Homey Meal Planner
+# Indomeals - Indonesian Homey Meal Planner
 
 A simple Flask web application designed to help Indonesian families plan affordable, easy-to-cook, and homey meals while considering common food allergens. It generates a daily meal plan and a consolidated shopping list based on user input.
 
